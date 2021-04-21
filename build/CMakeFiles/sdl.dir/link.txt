@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/sdl.dir/main.c.o  -o sdl 

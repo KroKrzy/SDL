@@ -1,0 +1,7 @@
+/home/student/SDL/SDL/build/CMakeFiles/install/strip.dir
+/home/student/SDL/SDL/build/CMakeFiles/edit_cache.dir
+/home/student/SDL/SDL/build/CMakeFiles/sdl.dir
+/home/student/SDL/SDL/build/CMakeFiles/rebuild_cache.dir
+/home/student/SDL/SDL/build/CMakeFiles/list_install_components.dir
+/home/student/SDL/SDL/build/CMakeFiles/install/local.dir
+/home/student/SDL/SDL/build/CMakeFiles/install.dir
